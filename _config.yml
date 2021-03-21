@@ -48,9 +48,9 @@ github_username:  nagyantal9312
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Antal Nagy Brett and I'm a programmer and a lawyer. I have experience in data protection, and information security. I also like making software and web apps.
+  Hi, my name's Antal Nagy and I'm a programmer and a lawyer. I have experience in data protection, and information security. I also like making software and web apps.
 
-  My favourite programming languages are: <mark>Java</mark> and <mark>Python</mark>
+  My favourite programming languages are: <mark>Java</mark> and <mark>Python</mark>. I am skilled in <mark>GDPR</mark> and <mark>ISO27001</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -96,7 +96,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at SZTE TTIK I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
       - layout: left
@@ -106,9 +106,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time as a law student I learnt a lot of key skills that have I have taken through my career such as precision and stress tolerance. I thouroughly enjoyed my time as university and learnt a lot about the laws of my country.
 
   - title: A Little More About Me
     layout: text

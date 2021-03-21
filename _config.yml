@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/sproogen
+        link: github.com/nagyantal9312/python_anonymizer
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -96,9 +96,8 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time at SZTE TTIK I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time as a programmer student I became a better team player. In addition to that, studying programming significantly improved my problem solving skills and creativity.
+          
       - layout: left
         title: University of Szeged
         caption: 2013 - 2018
@@ -106,7 +105,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time as a law student I learnt a lot of key skills that have I have taken through my career such as precision and stress tolerance. I thouroughly enjoyed my time as university and learnt a lot about the laws of my country.
+          During my time as a law student I learnt a lot of key skills that have I have taken through my career such as precision and stress tolerance. I thouroughly enjoyed my time there and learnt a lot about the laws of my country.
 
   - title: A Little More About Me
     layout: text

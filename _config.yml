@@ -61,9 +61,9 @@ content:
         link: github.com/nagyantal9312/python_anonymizer
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  nagyantal9312/python_anonymizer
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/nagyantal9312/python_anonymizer
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)

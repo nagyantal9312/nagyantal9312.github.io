@@ -48,7 +48,7 @@ github_username:  nagyantal9312
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Antal Nagy and I'm a programmer and a lawyer. I have experience in data protection, and information security. I also like making software and web apps.
+  Hi, my name's Antal Nagy and I'm a programmer and a lawyer. I have experience in data protection and information security. I also like making software and web apps.
 
   My favourite programming languages are: <mark>Java</mark> and <mark>Python</mark>.
 # I am skilled in <mark>GDPR</mark> and <mark>ISO27001</mark>.
@@ -112,7 +112,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and programming some of my other interests and hobbies are:
-      - Playing guitar
+      - Playing the guitar
       - Playing badminton
       - Traveling
 

@@ -1,5 +1,6 @@
 # Site
-repository: sproogen/resume-theme
+#repository: sproogen/resume-theme
+repository: nagyantal9312/nagyantal9312.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -44,10 +45,6 @@ github_username:  nagyantal9312
 # gtag: "UA-00000000-0"
 google_analytics: "G-ZSLC0ZWK8L"
 
-jekyll-analytics:
-  GoogleAnalytics:
-    id: G-ZSLC0ZWK8L
-    anonymizeIp: false
 
 # About Section
 # about_title: About Me

@@ -43,6 +43,10 @@ github_username:  nagyantal9312
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+jekyll-analytics:
+  GoogleAnalytics:
+    id: G-ZSLC0ZWK8L
+    anonymizeIp: false
 
 # About Section
 # about_title: About Me
@@ -131,7 +135,3 @@ plugins:
  - jekyll-seo-tag
  - jekyll-analytics
 
-jekyll-analytics:
-  GoogleAnalytics:
-    id: G-ZSLC0ZWK8L
-    anonymizeIp: false

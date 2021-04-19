@@ -2,6 +2,9 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Google Analytics
+google_analytics: G-ZSLC0ZWK8L
+
 # Content configuration version
 version: 2
 

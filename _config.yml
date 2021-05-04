@@ -75,6 +75,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>Pandas</mark> and <mark>Python</mark>. It is not a full app yet, it is in early development but I am updating it regularly and try to improve it.
 
+     - layout: top-middle
+        title: Spring Blog
+        link: https://spring-blog-first.herokuapp.com/
+        # link_text: Project Website
+#         additional_links:
+#           - title:  nagyantal9312/python_anonymizer
+#             icon: fab fa-github
+#             url: github.com/nagyantal9312/python_anonymizer
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          My very first Spring Boot application.
+        description: | # this will include new lines to allow paragraphs
+          I started this project long ago as a way of learning <mark>Spring Boot</mark> and <mark>Thymeleaf</mark>, but it was deployed to <mark>Heroku</mark> recently.
+          It is a very basic app, it only supports basic CRUD operations. Currently I am working on a completely new and much better version of it with a lot of new functions added. 
+          
+
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:

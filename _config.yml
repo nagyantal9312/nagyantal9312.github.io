@@ -75,7 +75,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way of learning <mark>Pandas</mark> and <mark>Python</mark>. It is not a full app yet, it is in early development but I am updating it regularly and try to improve it.
 
-     - layout: top-middle
+      - layout: top-middle
         title: Spring Blog
         link: https://spring-blog-first.herokuapp.com/
         # link_text: Project Website

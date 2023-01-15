@@ -73,25 +73,8 @@ content:
         quote: >
           An app which is able to anonymize and pseudonymise data.
         description: | # this will include new lines to allow paragraphs
-          I started this project during my university years as a way of learning <mark>Pandas</mark> and <mark>Python</mark>. This is an old project, with my current knowledge I would do many things differently.   
+          I started this project during my university years as a way of learning <mark>Pandas</mark> and <mark>Python</mark>. It is an application which is able to detect personal data, and after detection anonymises and/or pseudonymises them. This is an old project, with my current knowledge I could do it much better. I plan to update it in the future.   
 
-      - layout: top-middle
-        title: Spring Blog
-        link: https://spring-blog-first.herokuapp.com/
-        # link_text: Project Website
-#         additional_links:
-#           - title:  nagyantal9312/python_anonymizer
-#             icon: fab fa-github
-#             url: github.com/nagyantal9312/python_anonymizer
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          My very first Spring Boot application.
-        description: | # this will include new lines to allow paragraphs
-          I started this project long ago as a way of learning <mark>Spring Boot</mark> and <mark>Thymeleaf</mark>, but it was deployed to <mark>Heroku</mark> recently.
-          It is a very basic app, it only supports basic CRUD operations. Currently I am working on a completely new and much better version of it with a lot of new functions added. 
-          
 
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
@@ -113,13 +96,11 @@ content:
       - layout: left
         title: National Tax and Customs Administration of Hungary
         caption: 2021 - 
-        sub_title: Software engineer
+        sub_title: Software developer
         quote: >
           NTCA performs the tasks of the state tax authority and customs authority defined by law.
         description: |
-          asd
-                  
-
+          Working at NTCA as a full stack software developer I had the opportunity to gain real life work experience with <mark>RDMBS</mark> and <mark>PL/SQL</mark>.                  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

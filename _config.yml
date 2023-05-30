@@ -50,9 +50,9 @@ google_analytics: "UA-194990893-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Antal Nagy and I'm a programmer and a lawyer. I have experience in data protection and information security. I also like making software and web apps.
+  Hi, I'm Antal Nagy, a multidisciplinary professional with expertise in programming and law. With a background in data protection and information security, I possess a unique blend of technical and legal skills. I thoroughly enjoy creating software and web applications, leveraging my programming proficiency in <mark>PL/SQL</mark>, <mark>Java</mark> and <mark>Python</mark>. As a dedicated programmer and lawyer, I strive to combine my analytical thinking, problem-solving abilities, and attention to detail to deliver innovative solutions. With a passion for technology and a deep understanding of legal frameworks, I am committed to addressing complex challenges and driving impactful outcomes.
 
-  My favourite programming languages are: <mark>Java</mark> and <mark>Python</mark>.
+  Let's connect and explore how my diverse skill set can contribute to your projects and objectives.
 # I am skilled in <mark>GDPR</mark> and <mark>ISO27001</mark>.
 
 content:
@@ -73,7 +73,7 @@ content:
         quote: >
           An app which is able to anonymize and pseudonymise data.
         description: | # this will include new lines to allow paragraphs
-          I started this project during my university years as a way of learning <mark>Pandas</mark> and <mark>Python</mark>. It is an application which is able to detect personal data, and after detection anonymises and/or pseudonymises them. This is an old project, with my current knowledge I could do it much better. I plan to update it in the future.   
+          This is an application designed to detect and anonymize/pseudonymize personal data. This project initially began during my university years as a means of learning <mark>Pandas</mark> and <mark>Python</mark>. The program effectively identifies personal data and applies anonymization and pseudonymization techniques to protect privacy. It is an <mark>old project</mark>, my current knowledge and experience would enable me to enhance its functionality and performance significantly. I have plans to update and improve the program in the future.   
 
 
 #   - title: Experience # Title for the section
@@ -100,7 +100,7 @@ content:
         quote: >
           NTCA performs the tasks of the state tax authority and customs authority defined by law.
         description: |
-          Working at NTCA as a full stack software developer I had the opportunity to gain real life work experience with <mark>RDMBS</mark> and <mark>PL/SQL</mark>.                  
+          During my tenure as a software developer at NTCA, I gained real-world experience in the field. I had the opportunity to work with <mark>PL/SQL</mark> and <mark>RDBMS</mark>, expanding my knowledge and skills in these areas. I collaborated with a team of professionals to develop and implement software solutions. This enhanced my ability to analyze complex requirements and deliver <mark>high-quality code</mark> within strict deadlines. Moreover, my time at NTCA provided me with a deeper understanding of <mark>large-scale systems</mark> and the importance of adhering to <mark>security and compliance standards</mark>. It has allowed me to apply my technical knowledge to real-world scenarios, and develop a comprehensive understanding of the challenges and opportunities within the public sector.                  
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,7 +112,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time as a programmer student I became a better team player. In addition to that, studying programming significantly improved my problem solving skills and creativity.
+          Throughout my time as a programming student, I had the opportunity to delve into various programming languages, algorithms, and software development methodologies. These studies not only enhanced my <mark>technical skills</mark> but also sharpened my <mark>problem-solving abilities</mark> and fostered a <mark>creative mindset</mark>. Moreover, the collaborative nature of the program allowed me to work effectively in teams, building communication and <mark>teamwork skills</mark> that are vital in today's professional world. 
           
       - layout: left
         title: University of Szeged
@@ -121,7 +121,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          During my time as a law student I learnt a lot of key skills that have I have taken through my career such as precision and stress tolerance. I thouroughly enjoyed my time there and learnt a lot about the laws of my country.
+          Throughout my studies as a lawyer, I delved into various aspects of law, including constitutional law, civil law, criminal law, and administrative law. Beyond the theoretical knowledge, my time at the university honed essential skills that have proven valuable throughout my professional journey like <mark>precision</mark>, <mark>attention to detail</mark>, and the ability to <mark>handle high-pressure situations</mark>. My education in law not only provided me with a solid legal foundation but also instilled in me a deep appreciation for the rule of law, justice, and the complexities of the legal world.
 
   - title: A Little More About Me
     layout: text

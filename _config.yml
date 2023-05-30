@@ -110,7 +110,7 @@ content:
         caption: 2020
         sub_title: Coursera
         quote: >
-          https://www.coursera.org/account/accomplishments/professional-cert/TUS5EMF9F8FG
+          <a>https://www.coursera.org/account/accomplishments/professional-cert/TUS5EMF9F8FG</a>
         description: |
           This certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, <mark>Git</mark>, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration.
     
@@ -118,7 +118,7 @@ content:
         title: Google IT Support
         caption: 2020
         sub_title: Coursera
-        url:          
+        quote: >          
           https://www.coursera.org/account/accomplishments/professional-cert/87HZZGPGZVJ3
         description: | 
           Those who earn the Google IT Support Professional Certificate have completed five-courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer service, networking, operating systems, system administration, and security.

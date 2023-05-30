@@ -102,6 +102,18 @@ content:
         description: |
           During my tenure as a software developer at NTCA, I gained real-world experience in the field. I had the opportunity to work with <mark>PL/SQL</mark> and <mark>RDBMS</mark>, expanding my knowledge and skills in these areas. I collaborated with a team of professionals to develop and implement software solutions. This enhanced my ability to analyze complex requirements and deliver <mark>high-quality code</mark> within strict deadlines. Moreover, my time at NTCA provided me with a deeper understanding of <mark>large-scale systems</mark> and the importance of adhering to <mark>security and compliance standards</mark>. It has allowed me to apply my technical knowledge to real-world scenarios, and develop a comprehensive understanding of the challenges and opportunities within the public sector.                  
 
+  - title: Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Google IT Automation with Python
+        caption: 2020
+        sub_title: Coursera
+        quote: >
+          https://www.coursera.org/account/accomplishments/professional-cert/TUS5EMF9F8FG
+        description: |
+          This certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration.
+    
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -112,7 +124,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          Throughout my time as a programming student, I had the opportunity to delve into various programming languages, algorithms, and software development methodologies. These studies not only enhanced my <mark>technical skills</mark> but also sharpened my <mark>problem-solving abilities</mark> and fostered a <mark>creative mindset</mark>. Moreover, the collaborative nature of the program allowed me to work effectively in teams, building communication and <mark>teamwork skills</mark> that are vital in today's professional world. 
+          Throughout my time as a programming student, I had the opportunity to delve into various programming languages, algorithms, and software development methodologies. These studies not only enhanced my <mark>technical skills</mark> but also sharpened my <mark>problem-solving abilities</mark> and fostered a creative mindset. Moreover, the collaborative nature of the program allowed me to work effectively in teams, building communication and <mark>teamwork skills</mark> that are vital in today's professional world. 
           
       - layout: left
         title: University of Szeged
@@ -121,7 +133,7 @@ content:
         quote: >
           The University of Szeged is one of Hungary's leading and internationally ranked higher education institutions.
         description: | # this will include new lines to allow paragraphs
-          Throughout my studies as a lawyer, I delved into various aspects of law, including constitutional law, civil law, criminal law, and administrative law. Beyond the theoretical knowledge, my time at the university honed essential skills that have proven valuable throughout my professional journey like <mark>precision</mark>, <mark>attention to detail</mark>, and the ability to <mark>handle high-pressure situations</mark>. My education in law not only provided me with a solid legal foundation but also instilled in me a deep appreciation for the rule of law, justice, and the complexities of the legal world.
+          Throughout my studies as a lawyer, I delved into various aspects of law, including constitutional law, civil law, criminal law, and administrative law. Beyond the theoretical knowledge, my time at the university honed essential skills that have proven valuable throughout my professional journey like <mark>precision</mark>, attention to detail, and the ability to <mark>handle high-pressure situations</mark>. My education in law not only provided me with a solid legal foundation but also instilled in me a deep appreciation for the rule of law, justice, and the complexities of the legal world.
 
   - title: A Little More About Me
     layout: text

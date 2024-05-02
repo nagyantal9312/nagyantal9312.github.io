@@ -95,7 +95,7 @@ content:
     content:
       - layout: left
         title: National Tax and Customs Administration of Hungary
-        caption: 2021 - 
+        caption: 2021 - 2024
         sub_title: Software developer
         quote: >
           NTCA performs the tasks of the state tax authority and customs authority defined by law.
@@ -105,6 +105,15 @@ content:
   - title: Certifications
     layout: list
     content:
+      - layout: left
+        title: Data Analytics Engineering
+        caption: 2023 - 2024
+        sub_title: EPAM
+        quote: >
+          Certification link is not available yet
+        description: |
+          This EPAM mentor program is a set of practice tasks, which have various solutions, allowing trainees the freedom to propose and implement effective solutions. Covered topics are: building a data warehouse, AWS (IAM, S3, EC2, Redshift, Athena, Glue), Python for data analytics, testing and data quality (Pytest, Selenium, Jira), data visualisation (with PowerBi).
+
       - layout: left
         title: Google IT Automation with Python
         caption: 2020
@@ -150,6 +159,7 @@ content:
       Alongside my interests in networks and programming some of my other interests and hobbies are:
       - Playing the guitar
       - Making cocktails
+      - Photography
       - Doing sports
 
 # Footer
